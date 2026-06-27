@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # FinStream-iOS: Fintech Core Architecture with SwiftUI, Clean Architecture & Spec-Driven Development
 
 FinStream es una aplicación financiera de alto rendimiento desarrollada de forma nativa para iOS. El core del proyecto radica en el diseño de una arquitectura robusta, modular y desacoplada que mitiga la complejidad técnica de los flujos fintech. La app fue concebida bajo estándares estrictos de Spec-Driven Development, garantizando total retrocompatibilidad desde iOS 14+ y optimizando el uso de recursos del dispositivo.
@@ -25,8 +31,6 @@ FinStream es una aplicación financiera de alto rendimiento desarrollada de form
 <img width="360" height="680" alt="Captura de Pantalla 2026-06-27 a la(s) 14 09 14" src="https://github.com/user-attachments/assets/2647f18c-4d22-4ae3-9b3b-9cd45a65b666" />
 <img width="360" height="680" alt="Captura de Pantalla 2026-06-27 a la(s) 14 09 59" src="https://github.com/user-attachments/assets/0c56b4ee-ec50-474e-b3ed-c731e46f85ec" />
 <img width="360" height="680" alt="Captura de Pantalla 2026-06-27 a la(s) 14 09 33" src="https://github.com/user-attachments/assets/47419c62-25bd-4514-af9a-591d594a8d9d" />
-
-
 
 https://github.com/user-attachments/assets/dd2b08bc-3c70-4c27-a4d8-d1533519fd95
 
