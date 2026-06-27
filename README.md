@@ -16,7 +16,7 @@ FinStream es una aplicación financiera de alto rendimiento desarrollada de form
 ## | Pantalla Fantasma (Shimmer) | Autenticación Biométrica | Datos Consolidados |
 ### 📸 App Showcases & UI Flow
 | :---: | :---: | :---: |
-
+<p align="center">
 <img width="360" height="680" alt="Captura de Pantalla 2026-06-27 a la(s) 14 46 11" src="https://github.com/user-attachments/assets/19d583d5-b3f6-4310-9290-be4f8d38f25c" />
 <img width="360" height="680" alt="Captura de Pantalla 2026-06-27 a la(s) 14 10 23" src="https://github.com/user-attachments/assets/6f12bbe0-60a6-4b43-a0ba-8d7e5b7f5041" />
 <img width="360" height="680" alt="Captura de Pantalla 2026-06-27 a la(s) 14 07 32" src="https://github.com/user-attachments/assets/31709bcd-57cb-49c0-95ae-28d224f6f20d" />
@@ -26,6 +26,11 @@ FinStream es una aplicación financiera de alto rendimiento desarrollada de form
 <img width="360" height="680" alt="Captura de Pantalla 2026-06-27 a la(s) 14 09 59" src="https://github.com/user-attachments/assets/0c56b4ee-ec50-474e-b3ed-c731e46f85ec" />
 <img width="360" height="680" alt="Captura de Pantalla 2026-06-27 a la(s) 14 09 33" src="https://github.com/user-attachments/assets/47419c62-25bd-4514-af9a-591d594a8d9d" />
 
+
+
+https://github.com/user-attachments/assets/dd2b08bc-3c70-4c27-a4d8-d1533519fd95
+
+</P>
 
 
 
